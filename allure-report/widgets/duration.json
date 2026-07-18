@@ -1,0 +1,1 @@
+[{"uid":"6328334f2654aeb6","name":"Valid Login with Encrypted Password","time":{"start":1784027434929,"stop":1784027449008,"duration":14079},"status":"passed","severity":"normal"},{"uid":"e899b343b9de25e0","name":"Invalid Login Test - Failure Screenshot Auto Attach","time":{"start":1784027462967,"stop":1784027470060,"duration":7093},"status":"failed","severity":"normal"}]
