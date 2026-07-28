@@ -1,0 +1,6 @@
+INFO     root:log_util.py:26 2026-07-20 19:38:23Starting valid login test 
+INFO     root:log_util.py:26 2026-07-20 19:38:24Clicking login button 
+WARNING  root:log_util.py:24 2026-07-20 19:38:24Valid login completed, checking dashboard URL 
+INFO     root:log_util.py:26 2026-07-20 19:38:28Starting Invalid login test 
+INFO     root:log_util.py:26 2026-07-20 19:38:28Clicking login button 
+WARNING  root:log_util.py:24 2026-07-20 19:38:29Invalid login completed, checking dashboard URL 

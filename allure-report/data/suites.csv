@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jul 14 16:40:34 IST 2026","Tue Jul 14 16:40:49 IST 2026","14079","test_cases","test_login","","","","Valid Login with Encrypted Password",""
-"failed","Tue Jul 14 16:41:02 IST 2026","Tue Jul 14 16:41:10 IST 2026","7093","test_cases","test_login","","","","Invalid Login Test - Failure Screenshot Auto Attach",""
+"failed","Tue Jul 28 14:51:23 IST 2026","Tue Jul 28 14:51:26 IST 2026","3479","test_cases","test_case_login","","","","Valid Login -Encrypted Password",""
+"passed","Tue Jul 28 14:51:29 IST 2026","Tue Jul 28 14:51:34 IST 2026","4085","test_cases","test_case_login","","","","Invalid Login -Failure Screenshot Auto Attach",""
