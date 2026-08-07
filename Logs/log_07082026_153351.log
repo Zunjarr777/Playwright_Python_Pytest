@@ -1,0 +1,10 @@
+2026-08-07 15:33:56 [INFO] Executing valid login test
+2026-08-07 15:33:56 [DEBUG] Filling username: Admin
+2026-08-07 15:33:58 [DEBUG] Filling password: YWRtaW4xMjM=
+2026-08-07 15:33:58 [INFO] Clicking login button
+2026-08-07 15:33:58 [WARNING] Valid login completed, checking dashboard URL
+2026-08-07 15:34:02 [INFO] Executing Invalid login test
+2026-08-07 15:34:02 [DEBUG] Filling username: wrong
+2026-08-07 15:34:03 [DEBUG] Filling password: wrong
+2026-08-07 15:34:03 [INFO] Clicking login button
+2026-08-07 15:34:03 [WARNING] Invalid login completed, checking dashboard URL

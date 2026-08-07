@@ -1,0 +1,5 @@
+[32mINFO    [0m Utility.log_util:test_case_login.py:22 Executing Invalid login test
+[35mDEBUG   [0m Utility.log_util:login_page_POM.py:13 Filling username: wrong
+[35mDEBUG   [0m Utility.log_util:login_page_POM.py:15 Filling password: wrong
+[32mINFO    [0m Utility.log_util:login_page_POM.py:17 Clicking login button
+[33mWARNING [0m Utility.log_util:test_case_login.py:24 Invalid login completed, checking dashboard URL

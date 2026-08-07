@@ -1,8 +1,6 @@
 base_url: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
-browser: "chromium"
+browser: "chromium"  # firefox, webkit
 headless: False
-screenshot_path: "./Screenshots/"
-log_path: "Logs/test.log"
+ss_path: "./Screenshots/"
 username: "Admin"
 encrypted_password: "YWRtaW4xMjM="   # base64 encoded 'admin123'
-date_format: "%Y-%m-%d %H:%M:%S"
