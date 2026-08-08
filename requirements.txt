@@ -1,5 +1,5 @@
-pytest==8.2.2
-selenium==4.23.0
+pytest==7.4.4
 allure-pytest==2.13.2
 PyYAML==6.0.2
 pytest-playwright
+selenium==4.23.0
